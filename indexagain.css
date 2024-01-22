@@ -1,0 +1,1116 @@
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	}
+
+
+
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;}
+
+
+
+
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+}
+
+
+
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+
+	height:200px;
+	margin-left:30px;
+
+
+   /* Should be removed. Only for demonstration */
+}
+
+
+
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	
+	height:200px;
+	margin-left:30px;
+}
+
+
+h4{
+	color:darkred;
+}
+.clear{
+	clear:both;
+}
+
+
+.footer{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	height:300px;
+	
+	
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+
+	
+}
+
+
+.image8{
+	float:right;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all (max-width:320px){
+
+
+
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:50px;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:50px;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:50px;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:50px;
+	padding:30px;
+
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:50px;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+
+h4{
+	color:darkred;
+}
+
+
+
+.footer{
+	border:1px solid darkred;
+	width:100px;
+	background-color:darkred;
+	height:300px;
+	margin-top:300px;
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+	padding-left:150px;
+}
+
+
+.image8{
+	float:right;
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media all and(min-width:321px) and ( max-width:520px){
+
+
+
+
+
+
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12px;
+	padding:30px;
+	height:100px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12px;
+	padding:30px;
+	height:100px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12px;
+	padding:30px;
+	height:100px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12px;
+	padding:30px;
+
+	height:100px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12px;
+	padding:30px;
+	height:100px;
+	margin-left:30px;
+
+
+}
+
+h4{
+	color:darkred;
+}
+
+
+
+.footer{
+	border:1px solid darkred;
+	width:100px;
+	background-color:darkred;
+	height:300px;
+	margin-top:800px;
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+	padding-left:150px;
+}
+
+
+.image8{
+	float:right;
+	
+}
+}
+
+
+
+
+
+
+@media all and(min-width:521px) and ( max-width:720px){
+
+
+
+
+
+
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+
+h4{
+	color:darkred;
+}
+
+
+
+.footer{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	height:300px;
+	margin-top:300px;
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+	padding-left:150px;
+}
+
+
+.image8{
+	float:right;
+	
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and(min-width:721px) and ( max-width:920px){
+
+
+
+
+
+
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+
+h4{
+	color:darkred;
+}
+
+
+
+.footer{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	height:300px;
+	margin-top:300px;
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+	padding-left:150px;
+}
+
+
+.image8{
+	float:right;
+	
+}
+}
+
+
+
+
+@media all and(min-width:921px) and ( max-width:1020px){
+
+
+
+
+
+
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+
+h4{
+	color:darkred;
+}
+
+
+
+.footer{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	height:300px;
+	margin-top:300px;
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+	padding-left:150px;
+}
+
+
+.image8{
+	float:right;
+	
+}
+}
+
+
+
+
+@media all and(min-width:1021px) and ( max-width:1280px){
+
+
+
+
+
+
+.border{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	padding-left:200px;
+
+
+
+}
+h1{
+	color:white;
+	font-size:65px;
+
+}
+h2{
+	margin-top:-50px;
+}
+p{
+	color:white;
+}
+
+.img2{
+	float:right;
+
+}
+.img3{
+	margin-top:50px;
+	padding-left:100px;
+}
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img4{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img5{
+padding-left:100px;}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img6{
+	padding-left:100px;
+}
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+
+	height:200px;
+	margin-left:30px;
+
+
+}
+h4{
+	color:darkred;
+}
+
+.img7{
+	padding-left:100px;
+}
+
+
+
+/*creat five equal columns that  floats next to each other */
+.column {
+	float:left;
+	width:12%;
+	padding:30px;
+	height:200px;
+	margin-left:30px;
+
+
+}
+
+h4{
+	color:darkred;
+}
+
+
+
+.footer{
+	border:1px solid darkred;
+	width:100%;
+	background-color:darkred;
+	height:300px;
+	margin-top:300px;
+
+}
+
+h5{
+	color:white;
+	font-size:35px;
+	padding-left:150px;
+}
+
+
+.image8{
+	float:right;
+	
+}
+}
+
+
+s
